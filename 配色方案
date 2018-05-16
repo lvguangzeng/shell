@@ -46,4 +46,4 @@ white=$'\[\e[1;37m\]'
 
 normal=$'\[\e[m\]'
 
-PS1="$pink\u$green\u$blue@$red\h$blue:$cyan\w$yellow\$git_branch\$ $normal"
+PS1="$green\u$blue@$red\h$blue:$cyan\w$yellow\$git_branch\$ $normal"
